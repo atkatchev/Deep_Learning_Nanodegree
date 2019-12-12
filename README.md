@@ -1,7 +1,5 @@
 # Deep-Learning-Nanodegree
-The Deep Learning Nanodegree program covered cutting-edge topics such as Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Generative Adversarial Networks (GANs), and Network Deployment using Amazon Web Services (AWS). Designed and implemented the above mentioned building a CNNs for image recognition, RNNs for sequence and word generation, GAN to generative adversarial networks for image generation, and finally, deployed these networks to a website.
-
-The program was comprised of 5 courses and 5 projects. Each project was an opportunity to demonstrate what was learned the lessons. 
+The Deep Learning Nanodegree program covered cutting-edge topics such as Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Generative Adversarial Networks (GANs), and Network Deployment using Amazon Web Services (AWS). The program was comprised of 5 courses and 5 projects. 
 
 # Projects 
 - [Project 1](https://github.com/atkatchev/bike_sharing_ridership_prediction) - **Predicting Bike-Sharing Patterns** - Designed a **Multi-Layer Neural Network** from scratch using Python and Numpy. Implemented **gradient descent** and **back-propogation** in Python using Numpy and matrix multiplication. The goal of the project is to predict how many bikes the owner of a bike sharing company will need. If there are too few bikes, the business losses money from potential riders. If there are too many bikes the business has wasted money on bikes that are just sitting around. So the neural network predicts from historical data how many bikes will be needed in the near future. 
